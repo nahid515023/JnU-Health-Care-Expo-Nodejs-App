@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "JnU Counseling Center",
+    "slug": "healthapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/iconM.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splashM.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "plugins": [
+      [
+        "expo-build-properties",
+        {
+          "android": {
+            "usesCleartextTraffic": true
+          },
+          "ios": {}
+        }
+      ]
+    ],
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.roudra323.healthapp",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ee64b7e6-5600-4de0-a315-b8ada35994a0"
+      }
+    },
+    "owner": "roudra323"
+  }
+}
