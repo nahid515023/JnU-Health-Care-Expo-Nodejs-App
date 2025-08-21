@@ -1,7 +1,9 @@
-# JnU Health Care Mobile Application
+<div align="center">
+<h1>JnU Health Care Mobile Application</h1>
+</div>
 
 <div align="center">
-  <img src="JnU-Health-Care-Frontend/assets/jnu-logo-png.png" alt="JnU Logo" width="200"/>
+ <img width="420" height="594" alt="Image" src="https://github.com/user-attachments/assets/d2e3290b-2c18-4776-8fb3-145adf384d46" />
   
   **A comprehensive digital health care solution for Jagannath University students**
   
@@ -614,16 +616,15 @@ This project is licensed under the ISC License. See the [LICENSE](LICENSE) file 
 ## 📞 Contact
 
 **Project Maintainer**: Nahid
-- **Email**: [contact email]
-- **GitHub**: [GitHub profile]
+- **Email**: nahid515023@gmail.com
+- **GitHub**: nahid515023
 
 **Institution**: Jagannath University
-- **Department**: [Department Name]
-- **Project Type**: Academic/Research Project
+- **Department**: CSE
+- **Project Type**: Academic Project
 
 **Support**
 - Create an issue for bug reports
-- Join our [Discord/Slack] for discussions
 - Email for sensitive security issues
 
 ---
