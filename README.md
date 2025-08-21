@@ -1,7 +1,7 @@
 # JnU Health Care Mobile Application
 
 <div align="center">
-  <img src="JnU-Health-Care-Frontend/assets/jnu-logo-png.png" alt="JnU Logo" width="200"/>
+ <img width="420" height="594" alt="Image" src="https://github.com/user-attachments/assets/d2e3290b-2c18-4776-8fb3-145adf384d46" />
   
   **A comprehensive digital health care solution for Jagannath University students**
   
